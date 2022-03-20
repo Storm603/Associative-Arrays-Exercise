@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T05. SoftUniParking\bin\Debug\netcoreapp3.1\T05. SoftUniParking.exe
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T05. SoftUniParking\bin\Debug\netcoreapp3.1\T05. SoftUniParking.deps.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T05. SoftUniParking\bin\Debug\netcoreapp3.1\T05. SoftUniParking.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T05. SoftUniParking\bin\Debug\netcoreapp3.1\T05. SoftUniParking.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T05. SoftUniParking\bin\Debug\netcoreapp3.1\T05. SoftUniParking.dll
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T05. SoftUniParking\bin\Debug\netcoreapp3.1\T05. SoftUniParking.pdb
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T05. SoftUniParking\obj\Debug\netcoreapp3.1\T05. SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T05. SoftUniParking\obj\Debug\netcoreapp3.1\T05. SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T05. SoftUniParking\obj\Debug\netcoreapp3.1\T05. SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T05. SoftUniParking\obj\Debug\netcoreapp3.1\T05. SoftUniParking.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T05. SoftUniParking\obj\Debug\netcoreapp3.1\T05. SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T05. SoftUniParking\obj\Debug\netcoreapp3.1\T05. SoftUniParking.dll
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T05. SoftUniParking\obj\Debug\netcoreapp3.1\T05. SoftUniParking.pdb
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T05. SoftUniParking\obj\Debug\netcoreapp3.1\T05. SoftUniParking.genruntimeconfig.cache

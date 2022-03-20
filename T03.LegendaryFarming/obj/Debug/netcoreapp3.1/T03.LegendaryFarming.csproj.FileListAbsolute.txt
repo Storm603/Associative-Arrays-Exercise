@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T03.LegendaryFarming\bin\Debug\netcoreapp3.1\T03.LegendaryFarming.exe
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T03.LegendaryFarming\bin\Debug\netcoreapp3.1\T03.LegendaryFarming.deps.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T03.LegendaryFarming\bin\Debug\netcoreapp3.1\T03.LegendaryFarming.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T03.LegendaryFarming\bin\Debug\netcoreapp3.1\T03.LegendaryFarming.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T03.LegendaryFarming\bin\Debug\netcoreapp3.1\T03.LegendaryFarming.dll
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T03.LegendaryFarming\bin\Debug\netcoreapp3.1\T03.LegendaryFarming.pdb
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T03.LegendaryFarming\obj\Debug\netcoreapp3.1\T03.LegendaryFarming.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T03.LegendaryFarming\obj\Debug\netcoreapp3.1\T03.LegendaryFarming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T03.LegendaryFarming\obj\Debug\netcoreapp3.1\T03.LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T03.LegendaryFarming\obj\Debug\netcoreapp3.1\T03.LegendaryFarming.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T03.LegendaryFarming\obj\Debug\netcoreapp3.1\T03.LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T03.LegendaryFarming\obj\Debug\netcoreapp3.1\T03.LegendaryFarming.dll
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T03.LegendaryFarming\obj\Debug\netcoreapp3.1\T03.LegendaryFarming.pdb
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T03.LegendaryFarming\obj\Debug\netcoreapp3.1\T03.LegendaryFarming.genruntimeconfig.cache
