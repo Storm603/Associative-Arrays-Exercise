@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T07. StudentAademy\bin\Debug\netcoreapp3.1\T07. StudentAademy.exe
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T07. StudentAademy\bin\Debug\netcoreapp3.1\T07. StudentAademy.deps.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T07. StudentAademy\bin\Debug\netcoreapp3.1\T07. StudentAademy.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T07. StudentAademy\bin\Debug\netcoreapp3.1\T07. StudentAademy.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T07. StudentAademy\bin\Debug\netcoreapp3.1\T07. StudentAademy.dll
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T07. StudentAademy\bin\Debug\netcoreapp3.1\T07. StudentAademy.pdb
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T07. StudentAademy\obj\Debug\netcoreapp3.1\T07. StudentAademy.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T07. StudentAademy\obj\Debug\netcoreapp3.1\T07. StudentAademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T07. StudentAademy\obj\Debug\netcoreapp3.1\T07. StudentAademy.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T07. StudentAademy\obj\Debug\netcoreapp3.1\T07. StudentAademy.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T07. StudentAademy\obj\Debug\netcoreapp3.1\T07. StudentAademy.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T07. StudentAademy\obj\Debug\netcoreapp3.1\T07. StudentAademy.dll
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T07. StudentAademy\obj\Debug\netcoreapp3.1\T07. StudentAademy.pdb
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T07. StudentAademy\obj\Debug\netcoreapp3.1\T07. StudentAademy.genruntimeconfig.cache

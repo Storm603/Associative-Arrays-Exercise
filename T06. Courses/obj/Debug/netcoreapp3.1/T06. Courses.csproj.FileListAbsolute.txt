@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T06. Courses\bin\Debug\netcoreapp3.1\T06. Courses.exe
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T06. Courses\bin\Debug\netcoreapp3.1\T06. Courses.deps.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T06. Courses\bin\Debug\netcoreapp3.1\T06. Courses.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T06. Courses\bin\Debug\netcoreapp3.1\T06. Courses.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T06. Courses\bin\Debug\netcoreapp3.1\T06. Courses.dll
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T06. Courses\bin\Debug\netcoreapp3.1\T06. Courses.pdb
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T06. Courses\obj\Debug\netcoreapp3.1\T06. Courses.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T06. Courses\obj\Debug\netcoreapp3.1\T06. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T06. Courses\obj\Debug\netcoreapp3.1\T06. Courses.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T06. Courses\obj\Debug\netcoreapp3.1\T06. Courses.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T06. Courses\obj\Debug\netcoreapp3.1\T06. Courses.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T06. Courses\obj\Debug\netcoreapp3.1\T06. Courses.dll
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T06. Courses\obj\Debug\netcoreapp3.1\T06. Courses.pdb
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\T06. Courses\obj\Debug\netcoreapp3.1\T06. Courses.genruntimeconfig.cache

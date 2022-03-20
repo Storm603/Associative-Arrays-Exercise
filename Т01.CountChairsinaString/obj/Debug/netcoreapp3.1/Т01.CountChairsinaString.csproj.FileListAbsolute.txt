@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\Т01.CountChairsinaString\bin\Debug\netcoreapp3.1\Т01.CountChairsinaString.exe
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\Т01.CountChairsinaString\bin\Debug\netcoreapp3.1\Т01.CountChairsinaString.deps.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\Т01.CountChairsinaString\bin\Debug\netcoreapp3.1\Т01.CountChairsinaString.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\Т01.CountChairsinaString\bin\Debug\netcoreapp3.1\Т01.CountChairsinaString.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\Т01.CountChairsinaString\bin\Debug\netcoreapp3.1\Т01.CountChairsinaString.dll
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\Т01.CountChairsinaString\bin\Debug\netcoreapp3.1\Т01.CountChairsinaString.pdb
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\Т01.CountChairsinaString\obj\Debug\netcoreapp3.1\Т01.CountChairsinaString.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\Т01.CountChairsinaString\obj\Debug\netcoreapp3.1\Т01.CountChairsinaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\Т01.CountChairsinaString\obj\Debug\netcoreapp3.1\Т01.CountChairsinaString.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\Т01.CountChairsinaString\obj\Debug\netcoreapp3.1\Т01.CountChairsinaString.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\Т01.CountChairsinaString\obj\Debug\netcoreapp3.1\Т01.CountChairsinaString.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\Т01.CountChairsinaString\obj\Debug\netcoreapp3.1\Т01.CountChairsinaString.dll
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\Т01.CountChairsinaString\obj\Debug\netcoreapp3.1\Т01.CountChairsinaString.pdb
+C:\Users\Kristiyan\source\repos\Associative Arrays, Lambda, Linq exercise\Т01.CountChairsinaString\obj\Debug\netcoreapp3.1\Т01.CountChairsinaString.genruntimeconfig.cache
